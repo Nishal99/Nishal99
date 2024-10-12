@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishal99&label=Profile%20views&color=0e75b6&style=flat" alt="nishal99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishal99" alt="nishal99" /></a> </p>
-
 - 🔭 I’m currently working on [Salon Dandy](https://www.salondandy.com/)
 
 - 🌱 I’m currently learning **MERN**
