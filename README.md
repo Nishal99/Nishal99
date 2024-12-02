@@ -23,11 +23,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on <b><a href="https://www.salondandy.com" target="_blank">Salon Dandy</a></b>
+- 🔭 I’m currently working on <b>POS System</b>
 
 - 🌱 I’m currently learning **MERN.**
 
-- ☁️ I've keen interest in Web Development. So,I'm learning **Full Stack Web Development**
+- ☁️ I've keen interest in Web Development. So,I'm learning **Full Stack Development**
 
 - 📝 I regularly write articles on [my website]([https://Nishal99.hashnode.dev/](https://nishal99.github.io/myPortfolio/))
 
